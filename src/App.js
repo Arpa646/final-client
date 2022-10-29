@@ -22,6 +22,7 @@ import ManageExpert from './pages/Dashboard/ManageExpert';
 import Footer from './pages/shared/Footer';
 import Shop from './pages/shop.js/Shop';
 import ReviewOrder from './pages/shop.js/ReviewOrder';
+import ClientReview from './pages/Home/ClientReview';
 
 function App() {
   return (
@@ -31,6 +32,8 @@ function App() {
         <Route path="/" element={<Home/>} />
         <Route path="/contact" element={<Contact/>} />
         <Route path="about" element={<About />} />
+        <Route path="clientReview" element={<ClientReview />} />
+
         <Route path="shop" element={<Shop />} />
         <Route path="package" element={<RequireAuth><Appointment /></RequireAuth>}></Route>
         <Route path="review" element={<ReviewOrder />}></Route>

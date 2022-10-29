@@ -73,7 +73,8 @@ const Navbar = () => {
           <li><Link to="/">Home</Link></li>
           <li><Link to="/About">about</Link></li>
           <li><Link to="/Appointment">Appointment</Link></li>
-          <li><Link to="/reviews">reviews</Link></li>
+          {/* <li><Link to="/reviews">reviews</Link></li> */}
+          <li><Link to="/clientReview">Reviews</Link></li>
           <li><Link to="/contact">contact U</Link></li>
           <li><Link to="/shop">Shop</Link></li>
           {

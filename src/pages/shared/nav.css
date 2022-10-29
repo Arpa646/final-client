@@ -1,0 +1,66 @@
+.bg{
+    background-color: #72961eaf;
+    /* background-color: #54270d; */
+   
+}
+.bb{
+    background-image: url('../../assets/im/34.jpg');
+}
+.avatar2{
+    margin-left: 950px;
+    position: absolute;
+    margin-top: 6px; 
+    /*
+   
+   
+   */
+}
+
+.modal-design
+{
+    background-color: aqua;
+}
+.namee a{
+    font-size: 20px;
+}
+.cc{
+    
+ text-align: center;
+  
+  margin-left: -60px;
+   
+}
+.cc .ab{
+    font-size: 15px;
+}
+.cc .na{
+
+ font-size: 18px;
+ font-weight: bold;
+}
+.l{
+    text-align: center;
+}
+.profile-name{
+    text-align: center;
+   
+    margin-left: -80px;
+    margin-top: -30px;
+    padding: 10px;
+    font-weight: bold;
+}
+.c{
+    width: 180px;
+    margin-left: -50px;
+}
+
+.x{
+   
+}
+.navbar-start{
+  
+    width: 250px;
+}
+.l{
+    background-color: #54270d;
+}

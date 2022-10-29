@@ -1,0 +1,32 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@500;700&family=Bebas+Neue&family=Charis+SIL:ital,wght@0,700;1,700&family=Gentium+Plus&family=Lato:wght@100&family=Open+Sans:ital,wght@0,400;1,300&family=Poppins:wght@300&family=Roboto+Condensed:wght@300&family=Roboto+Mono:ital@1&family=Roboto:ital,wght@1,100&family=Source+Sans+Pro:ital,wght@0,400;0,600;1,400&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+.left{
+    width:400px;
+}
+.display{
+   display: flex;
+justify-content:space-around;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.title{
+    font-size: 20px;
+}
+.round img{
+    border-radius: 9%;
+    margin-left: 150px;
+
+}
+.pata{
+    margin-top: -300px;
+}
+.right{
+    margin-top: 142px;
+   
+    margin-left: -240px;
+    text-align: center;
+}

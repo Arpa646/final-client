@@ -1,0 +1,123 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@500;700&family=Bebas+Neue&family=Charis+SIL:ital,wght@0,700;1,700&family=Gentium+Plus&family=Lato:wght@100&family=Open+Sans:ital,wght@0,400;1,300&family=Poppins:wght@300&family=Roboto+Condensed:wght@300&family=Roboto+Mono:ital@1&family=Roboto:ital,wght@1,100&family=Source+Sans+Pro:ital,wght@0,400;0,600;1,400&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+
+.cardDesign{
+    width: 300px;
+    height: 440px;
+    background-color: rgba(245, 245, 220, 0.555);
+    margin: 30px;
+    border-radius: 10px 10px;
+    text-align: center;
+}
+.display{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+   
+}
+/* .order{
+    background-color: rgb(110, 69, 8);
+         position: static;
+         top: 0;
+    height: 300px;
+
+} */
+
+.img{
+    height: 300px;
+    
+   
+}
+.img img{
+    padding: 6px; 
+    width: 100%;
+    height: 100%;
+    
+}
+.btn-design{
+
+      padding: 10px 15px;
+      background-color: rgba(63, 207, 6, 0.336);
+      font-size: 17px;
+      border-radius: 10px;
+}
+.price-design
+{
+    font-weight: bold;
+    font-size: 20px;
+}
+.name-design
+{       font-weight: 500;
+     font-size: 20px;
+}
+.v{
+    padding: 15px;
+}
+
+
+
+
+
+
+.order-design{
+    background-color: azure;
+    height: 437px;
+    padding: 35px;
+    margin-top: 25px;
+}
+
+.title1{
+    font-size: 30px;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.mm{
+    font-size: 20px;
+    margin: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.hori{
+   height: 3px;
+    background: rgba(0, 0, 0, 0.644);
+}
+.mmm{
+    font-size: 20px;
+    margin: 10px; 
+    margin-left: 16px;
+}
+.nn{
+    margin-left: 60px;
+}
+.welcome{
+    font-size: 30px;
+   margin-left: 400px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.product-container{
+    background-color:beige;
+    margin: 20px;
+    padding: 10px;
+    width: 400px;
+}
+.box{
+    margin-left: 200px;
+}
+.order_container{
+   width: 100px;
+   background-color: aqua;
+   height: 700px;
+
+}
+.display1{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+   
+}
+.delete{
+    font-size: 30px;
+}
